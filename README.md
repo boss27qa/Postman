@@ -1,2 +1,2 @@
 # Postman
-работа с Poatman
+работа с Postman
